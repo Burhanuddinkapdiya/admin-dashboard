@@ -1,0 +1,383 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Item 1",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "2",
+      "title": "Item 2",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "3",
+      "title": "Item 3",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "4",
+      "title": "Item 4",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "5",
+      "title": "Item 5",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "6",
+      "title": "Item 6",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "7",
+      "title": "Item 7",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "8",
+      "title": "Item 1",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "9",
+      "title": "Item 2",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "10",
+      "title": "Item 3",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "11",
+      "title": "Item 4",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "12",
+      "title": "Item 5",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "13",
+      "title": "Item 6",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "14",
+      "title": "Item 7",
+      "costPrice": "499",
+      "sellingPrice": "799"
+    },
+    {
+      "id": "f12b19a0",
+      "title": "Title",
+      "costPrice": "332",
+      "sellingPrice": "232323"
+    },
+    {
+      "id": "2b7f38",
+      "title": "Test2",
+      "costPrice": "123",
+      "sellingPrice": "1234"
+    },
+    {
+      "id": "dbaa0c",
+      "title": "item2",
+      "costPrice": "456",
+      "sellingPrice": "789"
+    },
+    {
+      "id": "543c42",
+      "title": "asdf",
+      "costPrice": "123",
+      "sellingPrice": "456"
+    },
+    {
+      "id": "1d9a2e",
+      "title": "fgfdg",
+      "costPrice": "45",
+      "sellingPrice": "87"
+    },
+    {
+      "id": "043132",
+      "title": "dfgfd",
+      "costPrice": "45",
+      "sellingPrice": "6868"
+    },
+    {
+      "id": "1ae79d",
+      "title": "Galaxy A30",
+      "costPrice": "15999",
+      "sellingPrice": "19999"
+    },
+    {
+      "id": "e5e8cd",
+      "title": "Iphone",
+      "costPrice": "500000",
+      "sellingPrice": "600000"
+    },
+    {
+      "id": "7866aa",
+      "title": "dfds",
+      "costPrice": "12",
+      "sellingPrice": "123"
+    },
+    {
+      "id": "fdd254",
+      "title": "item45",
+      "costPrice": "545",
+      "sellingPrice": "4522"
+    },
+    {
+      "id": "bba040",
+      "title": "apple",
+      "costPrice": "45",
+      "sellingPrice": "50"
+    },
+    {
+      "id": "49cbe5",
+      "title": "adfdf",
+      "costPrice": "-1",
+      "sellingPrice": "-2"
+    },
+    {
+      "id": "061374",
+      "title": "samsung",
+      "costPrice": "1234",
+      "sellingPrice": "13245"
+    },
+    {
+      "id": "0522b1",
+      "title": "iphone se",
+      "costPrice": "123456",
+      "sellingPrice": "1234532"
+    },
+    {
+      "id": "2b8e44",
+      "title": "burahn"
+    },
+    {
+      "id": "7629ce",
+      "title": "kapdiya"
+    },
+    {
+      "id": "cfad7f",
+      "title": "items"
+    },
+    {
+      "id": "277c54",
+      "title": "itemskf"
+    },
+    {
+      "id": "097534",
+      "title": "India"
+    },
+    {
+      "id": "678a49",
+      "title": "qatar"
+    },
+    {
+      "id": "f5bd01",
+      "title": "kuwait"
+    },
+    {
+      "id": "417e67",
+      "title": "kljdf"
+    },
+    {
+      "id": "20fca6",
+      "title": "khkdsf"
+    },
+    {
+      "id": "0e01b8",
+      "title": "itemsas"
+    },
+    {
+      "id": "816132",
+      "title": "kjksdjf"
+    },
+    {
+      "id": "b67c66",
+      "title": "indianns"
+    },
+    {
+      "id": "527ae2",
+      "title": "itemesf"
+    },
+    {
+      "id": "3ef45f",
+      "title": "oepejs"
+    },
+    {
+      "id": "03cb1c",
+      "title": "kjjkgf"
+    },
+    {
+      "id": "38222c",
+      "title": "jkjhkj"
+    },
+    {
+      "id": "436737",
+      "title": "itesff"
+    },
+    {
+      "id": "799460",
+      "title": "irems"
+    },
+    {
+      "id": "22c877",
+      "title": "krens"
+    },
+    {
+      "id": "aed11e",
+      "title": "djfdkf"
+    },
+    {
+      "id": "3be215",
+      "title": "jdfs"
+    },
+    {
+      "id": "416af4",
+      "title": "indiaaa"
+    },
+    {
+      "id": "f0b578",
+      "title": "ainda"
+    },
+    {
+      "id": "ed0a38",
+      "title": "indaijds"
+    },
+    {
+      "id": "5e3efa",
+      "title": "asdf;lkj"
+    },
+    {
+      "id": "a427a4",
+      "title": "item3"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "jhon",
+      "age": "25",
+      "phone": "898965061",
+      "pincode": "13546"
+    },
+    {
+      "id": "28b5ab",
+      "name": "Burhan",
+      "age": "21",
+      "phone": "8989823230",
+      "pincode": "12345"
+    },
+    {
+      "id": "5d5727",
+      "name": "MaxweL",
+      "age": "45",
+      "phone": "4575235326",
+      "pincode": "786532"
+    },
+    {
+      "id": "cba95c",
+      "name": "faraz",
+      "age": "12",
+      "phone": "45454212",
+      "pincode": "5454556"
+    },
+    {
+      "id": "e92ffa",
+      "name": "Burhanuddin Kapdiya",
+      "age": "22",
+      "phone": "89865321532",
+      "pincode": "452001"
+    },
+    {
+      "id": "961600",
+      "name": "Burhank",
+      "age": "22",
+      "phone": "35659412",
+      "pincode": "12125412"
+    },
+    {
+      "id": "195c8e",
+      "name": "afdsf",
+      "age": "12",
+      "phone": "12151",
+      "pincode": "421515"
+    },
+    {
+      "id": "dcc6f4",
+      "name": "samoil",
+      "age": "22",
+      "phone": "986525433",
+      "pincode": "135453"
+    },
+    {
+      "id": "7372e6",
+      "name": "husain",
+      "age": "23",
+      "phone": "215342145",
+      "pincode": "321532"
+    },
+    {
+      "id": "0926fb",
+      "name": "Burhanuddin Kapdiya",
+      "age": "122",
+      "phone": "23456854312",
+      "pincode": "54321"
+    },
+    {
+      "id": "3cbc9e",
+      "name": "Samoil barda",
+      "age": "22",
+      "phone": "994775469653",
+      "pincode": "123345"
+    },
+    {
+      "id": "6eb4c7",
+      "name": "hussain",
+      "age": "22",
+      "phone": "321568521",
+      "pincode": "1321"
+    },
+    {
+      "id": "ee321c",
+      "name": "dfasf",
+      "age": "424",
+      "phone": "535",
+      "pincode": "543453"
+    },
+    {
+      "id": "b4cfe4",
+      "name": "Burhani",
+      "age": "25",
+      "phone": "789456123",
+      "pincode": "123456"
+    }
+  ],
+  "auth": [
+    {
+      "id": "7beb1d",
+      "username": "admin123",
+      "password": "admin123"
+    }
+  ]
+}
